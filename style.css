@@ -1,3 +1,30 @@
 .intestazione{
-    background-color: darksalmon;
+background-color: darksalmon;
+color: white;
+    text-align: center;
+
+    padding: 16px;
+
+    border-style: solid;
+    border-color: lightseagreen;
+    border-width: 16px;
+    border-radius: 30px;
+
 }
+
+.link-navigazione{
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+.immagine-spostabile{
+    position: absolute;
+    top: 500px;
+    left: 500px;
+
+
+<img width="300" class="immagine-spostabile" src="leone.jpg" alt="">
+
+}
+
