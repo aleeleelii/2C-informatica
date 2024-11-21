@@ -18,13 +18,18 @@ color: white;
 
 }
 
+.scheda-elemento{
+    position: absolute;
+    left: 0px;
+    top: 1200px;
+}
+
+
 .immagine-spostabile{
     position: absolute;
     top: 500px;
     left: 500px;
 
-
-<img width="300" class="immagine-spostabile" src="leone.jpg" alt="">
 
 }
 
